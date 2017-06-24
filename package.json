@@ -1,6 +1,6 @@
 {
   "name": "starbound-language-lua",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Add syntax highlighting and snippets to lua files in atom, and adds some better support for starbound modding.",
   "license": "MIT",
   "repository": "https://github.com/C0bra5/starbound-language-lua",
