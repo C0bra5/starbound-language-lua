@@ -179,3 +179,12 @@
   'math.tanh':
     'prefix': 'tanh',
     'body': 'math.tanh(${0:x})'
+  'init':
+    'prefix': 'init',
+    'body': 'function init()\r\n\t${0}\r\nend'
+  'update':
+    'prefix': 'update',
+    'body': 'function update(dt)\r\n\t${0}\r\nend'
+  'uninit':
+    'prefix': 'uninit',
+    'body': 'function uninit()\r\n\t${0}\r\nend'
